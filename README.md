@@ -17,3 +17,6 @@ https://github.com/henriwoodcock/pico-wake-word
 
 ## breakout_rpi_pico  
 https://github.com/boochow/breakout_rpi_pico  
+
+## 树莓派Pico中文站, by 树莓派实验室    
+https://pico.org.cn  
