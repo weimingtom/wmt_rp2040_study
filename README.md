@@ -1,6 +1,10 @@
 # wmt_rp2040_study
 My raspberry pi pico study
 
+## Arduino  
+https://github.com/earlephilhower/arduino-pico  
+https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json  
+
 ## pico-sdk  
 https://github.com/raspberrypi/pico-sdk  
 https://github.com/raspberrypi/pico-examples  
