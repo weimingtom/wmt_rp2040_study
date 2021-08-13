@@ -1,6 +1,9 @@
 # wmt_rp2040_study
 My raspberry pi pico study
 
+## (IMP) pico-sdk for windows msys/mingw  
+**search baidupan, msys_v11_raspberry_pi_pico_v1.rar**  
+
 ## Arduino  
 https://github.com/earlephilhower/arduino-pico  
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json  
