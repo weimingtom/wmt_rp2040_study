@@ -30,3 +30,8 @@ https://pico.org.cn
 
 ## wasm dino  
 https://github.com/vshymanskyy/wasm3_dino_rpi_pico  
+
+## rp2040 mpy游戏机, 电子森林  
+https://www.eetree.cn/project/detail/698  
+https://gitee.com/eetree-git/RP2040_Game_Kit  
+https://github.com/picospuch/eetree-mpy-lecture-code  
