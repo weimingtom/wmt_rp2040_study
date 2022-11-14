@@ -35,3 +35,7 @@ https://github.com/vshymanskyy/wasm3_dino_rpi_pico
 https://www.eetree.cn/project/detail/698  
 https://gitee.com/eetree-git/RP2040_Game_Kit  
 https://github.com/picospuch/eetree-mpy-lecture-code  
+
+## RPI Pico MDK5 (Keil 5) project template  
+* https://github.com/GorgonMeducer/Pico_Template  
+* https://github.com/lvgl/lv_port_raspberry_pi_pico_mdk  
