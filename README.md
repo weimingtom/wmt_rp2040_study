@@ -39,3 +39,6 @@ https://github.com/picospuch/eetree-mpy-lecture-code
 ## RPI Pico MDK5 (Keil 5) project template  
 * https://github.com/GorgonMeducer/Pico_Template  
 * https://github.com/lvgl/lv_port_raspberry_pi_pico_mdk  
+
+## picoboy  
+* https://github.com/codetiger/PicoBoy  
