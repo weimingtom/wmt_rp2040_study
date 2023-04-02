@@ -1,7 +1,7 @@
 # wmt_rp2040_study
 My raspberry pi pico study
 
-## micropython  
+## micropython, for wio-rp2040    
 * see https://github.com/weimingtom/wmt_micropython_study  
 * 20220107.rar  
 * 20220109.rar  
