@@ -1,6 +1,11 @@
 # wmt_rp2040_study
 My raspberry pi pico study
 
+## micropython  
+* see https://github.com/weimingtom/wmt_micropython_study  
+* 20220107.rar  
+* 20220109.rar  
+
 ## (IMP) pico-sdk for windows msys/mingw  
 **search baidupan, msys_v11_raspberry_pi_pico_v1.rar**  
 
